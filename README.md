@@ -56,4 +56,8 @@ Tech Stack
 ✔️ Women & children were prioritized for rescue.
 ✔️ 1st class passengers had better survival rates due to better cabin locations & priority.
 ✔️ Higher fares correlated with higher survival probability.
+______________________________________________________________________________________________________________________________________________________________________________
+
+
+
 
